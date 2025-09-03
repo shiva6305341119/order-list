@@ -1,0 +1,25 @@
+
+body
+ {
+  font-family:Arial;
+}  
+  
+ol  
+  {
+     background-color:pink;
+     Padding:15px;
+  }
+
+ul {
+    background-color:red;
+    Padding:15px;
+   }
+
+li 
+  {
+    margin-bottom:15px;
+  }
+
+
+
+
